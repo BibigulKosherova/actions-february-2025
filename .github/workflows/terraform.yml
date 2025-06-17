@@ -8,6 +8,6 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
 
-  steps:
-    - name: Checkout SCM
-      uses: actions/checkout@v4
+    steps:
+      - name: Checkout SCM
+        uses: actions/checkout@v4
