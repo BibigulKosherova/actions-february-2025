@@ -13,3 +13,5 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: BibigulKosherova/actions-terraform
+
+      - run: ls
